@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "79ozy3fJWZtJU8eCB4mPfItpAD2OJZlRfcnJQck34Tgf1y61CI6z3BnB+61YJGamd92vtgfA3vGw47xsHN3iRg==",
+  "success": true,
+  "projectFilePath": "/Users/sidneyjunior/Projects/Project Prometheus/web-metrics/src/web-metrics.csproj",
+  "expectedPackageFiles": [
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.http/3.1.0/microsoft.extensions.http.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.objectpool/7.0.0/microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.19.6/microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/prometheus-net/8.2.1/prometheus-net.8.2.1.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/prometheus-net.aspnetcore/8.2.1/prometheus-net.aspnetcore.8.2.1.nupkg.sha512",
+    "/Users/sidneyjunior/.nuget/packages/prometheus-net.dotnetruntime/4.4.0/prometheus-net.dotnetruntime.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
